@@ -1,3 +1,4 @@
 Aula Git
 
-#git pushgit status
+#git push status
+#git pull
